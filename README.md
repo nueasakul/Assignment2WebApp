@@ -2,7 +2,7 @@
 
 เว็บไซต์สำหรับดู config ของโดรน บันทึกอุณหภูมิ และดูประวัติ log
 
-**Deployment:** `<https://nueasakul.github.io/Assignment2WebApp/>`
+**Deployment:** [`<https://nueasakul.github.io/Assignment2WebApp/>`](https://nueasakul.github.io/Assignment2WebApp/)
 
 ## การตั้งค่า
 
